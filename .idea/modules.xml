@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataWedge.iml" filepath="$PROJECT_DIR$/DataWedge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datawedge-barcode-scanner/datawedge-barcode-scanner.iml" filepath="$PROJECT_DIR$/datawedge-barcode-scanner/datawedge-barcode-scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datawedge-barcode-scanner-master.iml" filepath="$PROJECT_DIR$/.idea/modules/datawedge-barcode-scanner-master.iml" group="datawedge-barcode-scanner-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/datawedge-barcode-scanner-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/datawedge-barcode-scanner-master-app.iml" group="datawedge-barcode-scanner-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datawedge-barcode-scanner/datawedge-barcode-scanner-master-datawedge-barcode-scanner.iml" filepath="$PROJECT_DIR$/.idea/modules/datawedge-barcode-scanner/datawedge-barcode-scanner-master-datawedge-barcode-scanner.iml" group="datawedge-barcode-scanner-master/datawedge-barcode-scanner" />
+    </modules>
+  </component>
+</project>
