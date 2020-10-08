@@ -92,7 +92,6 @@ class DataWedge(private val context: Context,
         var source = intent.getStringExtra(KEY_SOURCE)
         var data = intent.getStringExtra(DATA)
         var labelType = intent.getStringExtra(LABEL_TYPE)
-        Log.d("TAGTAGTAG",source)
         // if source is null, try to get data by legacy way
         if (source == null) {
             source = intent.getStringExtra(KEY_SOURCE_LEGACY)
